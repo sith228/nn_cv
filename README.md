@@ -1,7 +1,7 @@
 # NN Computer Vision community
 ### Курсы Stepic & Cursera
 #### Computer Vision:
-[Computer Vision list](ml_cources.md)
+[Computer Vision list](ml_courses.md)
 
 - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/syllabus)
 - [Обработка изображений](https://stepik.org/course/1280/syllabus)
