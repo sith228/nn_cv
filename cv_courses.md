@@ -1,11 +1,11 @@
-#### Computer Vision:
+### Computer Vision:
 
-##### Stepik:
+#### Stepik:
 
 - [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/syllabus)
 - [Обработка изображений](https://stepik.org/course/1280/syllabus)
 
-##### Coursera:
+#### Coursera:
 - [Deep Learning in Computer Vision](https://www.coursera.org/learn/deep-learning-in-computer-vision/home/welcome)
 - [Introduction to Computer Vision with Watson and OpenCV](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv/home/welcome)
 - [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics/home/welcome)
